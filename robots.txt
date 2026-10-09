@@ -1,0 +1,3 @@
+# Private website concept for review. Not an official company website. Do not index.
+User-agent: *
+Disallow: /
